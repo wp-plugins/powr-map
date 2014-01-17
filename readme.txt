@@ -12,7 +12,6 @@
     Create and customize interactive maps for any location.
 
     == Description ==
-
     POWr Map is a mobile-responsive, fully-customizable plugin that you can edit **right in the page**.
     Add the widget to your site, or use the shortcode **[powr-map]** to add Map to any post.
     <br><br>
@@ -28,7 +27,6 @@
 
 
     == Installation ==
-
     To install POWr Map
     <br><br>
     1. Upload 'powr-map.php' to the '/wp-content/plugins/' directory
@@ -68,13 +66,11 @@
 
 
     == Upgrade Notice ==
-
     = 1.0 =
     First released version.
 
 
     == Changelog ==
-
     = 1.0 =
     * First released version
     
