@@ -4,7 +4,7 @@
     Donate link: http://powr.io/
     Tags: Map, free map, google maps, open maps, interactive map, custom map, map zoom, roadmap, satellite map, custom pin map, map widget, map plugin, mobile responsive
     Requires at least: 3.0
-    Tested up to: 3.8
+    Tested up to: 3.9
     Stable tag: 1.0
     License: GPLv2 or later
     License URI: http://www.gnu.org/licenses/gpl-2.0.html
