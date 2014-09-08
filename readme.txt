@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: Map, free map, google maps, open maps, interactive map, custom map, map zoom, roadmap, satellite map, custom pin map, map widget, map plugin, mobile responsive
 Requires at least: 3.0
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -19,7 +19,7 @@ POWr plugins can be used on virtually any website!  Learn more at [www.POWr.io](
 <br>
 = Free Features =
 * Fully interactive maps with any number of locations.
-* - Intuitive location panel lets users jump between multiple locations.
+* Intuitive location panel lets users jump between multiple locations.
 * Choose between satellite, roadmap, or hybrid maps.
 * Choose from expert-designed templates, or take control with custom fonts, borders, backgrounds, and more.
 * Easy to use design tools let you customize map scale, shape, and pin color.
