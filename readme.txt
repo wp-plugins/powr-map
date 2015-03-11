@@ -22,7 +22,6 @@ First, download, install, and activate POWr Map. Then drop the widget anywhere i
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-map-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
-
 = Free Features =
 * Fully interactive maps with any number of locations.
 * Intuitive location panel lets users jump between multiple locations.
@@ -35,8 +34,10 @@ First, download, install, and activate POWr Map. Then drop the widget anywhere i
 = Upgrade ($1.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Added Color Controls - choose the color of your map pins.
+* Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 == Installation ==
 Download, install, and activate POWr Map.
