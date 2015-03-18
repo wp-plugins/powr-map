@@ -39,6 +39,7 @@ First, download, install, and activate POWr Map. Then drop the widget anywhere i
 * Support the development of other great plugins
 
 
+
 == Installation ==
 Download, install, and activate POWr Map.
 <br>
