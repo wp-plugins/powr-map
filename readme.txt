@@ -5,7 +5,7 @@ Donate link: http://powr.io/
 Tags: Map, free map, google maps, open maps, interactive map, custom map, map zoom, roadmap, satellite map, custom pin map, map widget, map plugin, mobile responsive, directions, driving directions, business location, destination, markers, map pin, store finder, locator, map markers, streetview, latitude, longitude, route, contact, balloon, coverage area, visitor map, ecommerce, traffic, multiple locations, responsive web design, personalized, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.1
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -94,6 +94,8 @@ Improved loading speed
 = 1.3 =
 Easily add POWr plugins right from the text editor.
 
+= 1.4 =
+Improved functionality within the wp text editor.
 
 
 == Changelog ==
@@ -108,5 +110,8 @@ Easily add POWr plugins right from the text editor.
 
 = 1.3 =
 Easily add POWr plugins right from the text editor.
+
+= 1.4 =
+Improved functionality within the wp text editor.
 
 
