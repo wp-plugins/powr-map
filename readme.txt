@@ -34,7 +34,8 @@ First, download, install, and activate POWr Map. Then drop the widget anywhere i
 
 = Upgrade ($1.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-* Added Color Controls - choose the color of your map pins.
+* Built in location search bar
+* Change pin color
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
